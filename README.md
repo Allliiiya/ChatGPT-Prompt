@@ -1,28 +1,37 @@
-README
-This repository contains ChatGPT, a large language model trained by OpenAI, based on the GPT-3.5 architecture. The model is capable of performing various natural language processing tasks such as prompt engineering, summarizing, inferring sentiment and topics, transforming languages, tone transformation, spellchecking and grammar checking, expanding customer replies, and acting as a chatbot.
+# README
+This GitHub repository includes a collection of prompt engineering examples for developers. The content covers the following topics:
 
-Guidelines
-This section provides guidelines for using ChatGPT, including iterative prompt development and summarization.
+Guidelines for prompt engineering
+Iterative prompt development
+Summarizing using limited words, sentences or characters
+Inferring sentiment and topics
+Transforming text including translation to different languages, tone transformation, and format conversion
+Spellcheck and grammar check
+Expanding customer email replies with specific details from reviews
+Chatbot development
+The content was created by Isa and Andrew Ng and is based on the GPT-3.5 architecture developed by OpenAI.
 
-Iterative Prompt Development
-This section explains how to perform iterative prompt development using ChatGPT.
+Guidelines:
+The Guidelines section provides best practices for prompt engineering to optimize the performance of language models.
 
-Summarizing
-This section outlines how to generate short summaries of product reviews from ecommerce sites using ChatGPT.
+Iterative Prompt Development:
+The Iterative Prompt Development section explains how to develop prompts in an iterative manner to improve the accuracy of language models over time.
 
-Inferring
-This section covers inferring sentiment (positive/negative), performing multiple tasks at once, inferring topics, and creating news alerts for specific topics.
+Summarizing:
+The Summarizing section demonstrates how to use limited words, sentences, or characters to generate short summaries of text.
 
-Transforming
-This section explains how to perform translation from one language to another, including Spanish, French, and English pirate. It also covers translating formal and informal forms, using a universal translator, and tone transformation.
+Inferring:
+The Inferring section covers techniques for inferring sentiment and topics from text, as well as how to set up news alerts for specific topics.
 
-Spellcheck/Grammar Check
-This section explains how to proofread and correct text using ChatGPT, including transforming slang to a business letter and converting formats. It also covers following the APA style guide and targeting advanced readers.
+Transforming:
+The Transforming section provides examples of text transformation, including translation to different languages, tone transformation, and format conversion.
 
-Expanding
-This section explains how to customize automated replies to customer emails using ChatGPT, including using specific details from the review and writing in a concise and professional tone.
+Spellcheck/Grammar check:
+The Spellcheck/Grammar check section demonstrates how to use tools to proofread and correct text for errors.
 
-Chatbot
-This section explains how to use ChatGPT as a chatbot.
+Expanding:
+The Expanding section shows how to customize automated email replies to customers using specific details from reviews.
 
-Credit to DeepLearning.AI, by Isa and Andrew Ng.
+Chatbot:
+The Chatbot section provides an introduction to chatbot development using language models.
+
